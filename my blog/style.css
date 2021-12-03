@@ -1,0 +1,133 @@
+body{
+    margin:0px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+#videos{
+padding-top: 150px;
+
+
+
+}
+#im1{
+    width:400px;
+height: 350px;
+border-radius: 200px;
+}
+#welcome{
+    position: absolute;
+    height: 100%;
+    bottom: 0px;
+    color: rgb(0, 0, 0);
+   
+    z-index: 9;
+   
+  background:linear-gradient( #9ef291 0%, aqua 100%  );
+    display: table;
+    width: 100%;
+    
+
+
+}
+#h11{
+    font-size: 40px;
+
+}
+#sp1{
+font-family: cursive;
+
+
+}
+h2{
+    font-size: 40px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#infoabtim{
+    font-family: cursive;
+    font-size: 30px;
+   
+    line-height: 45px;
+
+}
+
+a:hover{
+    color: greenyellow;
+
+
+
+
+}
+a{
+    color: rgb(0, 0, 0);
+}
+#bio { 
+    padding-top: 1000px;
+    
+    
+    
+    
+    text-align: center;
+
+
+
+}
+#article{
+padding: 100px;
+
+}
+.anc{
+    font-size:20px;
+}
+.h11{
+font-size:45px;
+
+}
+.menu{
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    margin-top :0px;top: 0px;
+ z-index: 10;
+
+
+
+}
+.links{
+    display: inline;
+    font-size: 25px;
+    padding-left: 35px;
+    padding-right: 25px;
+    font-family: fantasy;
+
+}
+.links:hover{
+font-size: 35px;
+text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.divincontact a{
+color: white;
+text-shadow: none;
+
+}
+.divincontact h3{
+    display: inline;
+}
+#con iframe{
+    width: 100%;
+}
+#red{
+    background-color:crimson;
+}
